@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Tip Percentage Slider so that users are not limited to the 3 segmented options.
 
 ## Video Walkthrough
 
