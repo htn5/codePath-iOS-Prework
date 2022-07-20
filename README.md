@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Tip Percentage Slider so that users are not limited to the 3 segmented options.
+- [X] Slider value matches the value from the segmented controller if it is used.
 - [X] Split Total feature to divide cost based on the number of people in the party.
 
 ## Video Walkthrough
